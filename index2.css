@@ -41,7 +41,21 @@ img{
     border-radius: 10%;
 
 }
+
+.i{
+    width: 30%;
+}
+
+.my{
+    animation: myself 4s ease 1s infinite;
+}
+
+@keyframes myself{
+    0%{
+       margin-left: -40%;
+    }
+}
+
 @media screen {
     max-width: 300px;
-    max-height: 300px;
 }
