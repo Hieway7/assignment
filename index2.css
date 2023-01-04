@@ -55,7 +55,7 @@ img{
     }
 }
 
-@media (max-width:400px){
+@media (max-width:800px){
     div{
         background-color: blue;
         display: inline-block;
